@@ -8,7 +8,10 @@ body{
     color: white;
 }
 .apresentacao{
-    margin: 10% 15%;align-items: center;
+    margin: 10% 15%;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
 }
 .apresentacaoconteudo{
     width: 615px;
@@ -57,3 +60,6 @@ body{
 .Div_Linkslinks:hover{
     color: #272727;
 }
+
+
+
